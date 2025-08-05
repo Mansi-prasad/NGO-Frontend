@@ -1,13 +1,13 @@
 # 🌍 NGO Frontend Website
 
-A simple and responsive frontend website for an NGO, designed to showcase the organization's Info, activities, and provide a form to apply to become a volunteer, ways for visitors to contribute.
+A simple and responsive frontend website for an NGO, designed to showcase the organization's information, activities, and provide a form for visitors to apply to become volunteers and find ways to contribute.
 
 ---
 
 ## ✨ Features
 - **Responsive Design** – Works on desktop, tablet, and mobile devices
 - **About Us Section** – Share your NGO’s story and mission
-- **Volunteer Page** – Simple form for user to become a volunteer
+- **Volunteer Page** – Simple form for users to apply as volunteers
 - **Smooth Navigation** – Easy user flow across pages
 
 ---
@@ -29,6 +29,10 @@ cd NGO-Frontend
 Install dependencies  
 ``` bash 
 npm install
+```
+Run the Frontend
+``` bash 
+npm run dev
 ```
 ---
 

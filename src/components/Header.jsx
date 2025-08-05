@@ -10,7 +10,7 @@ export default function Header() {
 
   return (
     <header className="bg-gray-100 fixed top-0 left-0 w-full z-50 shadow-sm">
-      <div className="container mx-auto flex justify-between items-center px-8 md:px-26 py-4">
+      <div className="container mx-auto flex justify-between items-center px-8 md:px-20 py-4">
         <h1 className=" text-blue-800 text-2xl font-bold hover:cursor-pointer">
           NGO
         </h1>
