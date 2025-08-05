@@ -24,7 +24,10 @@ A simple and responsive frontend website for an NGO, designed to showcase the or
 ```bash
 git clone https://github.com/Mansi-prasad/NGO-Frontend
 ```
+Change the directory
+``` bash
 cd NGO-Frontend  
+```
 
 Install dependencies  
 ``` bash 
@@ -38,3 +41,4 @@ npm run dev
 
 ## Live Link 
 
+https://ngo-frontend-kappa.vercel.app/
